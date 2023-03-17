@@ -8,6 +8,7 @@ Boilerlates for fast creating app with configured linters.
 ```
 
 [NextJS](https://github.com/ViktorFAlex/Next.js-template)
+
 [CRA](https://github.com/ViktorFAlex/boilerplate/tree/main/my-app)
 
 
